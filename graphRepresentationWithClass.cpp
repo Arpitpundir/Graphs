@@ -48,6 +48,5 @@ int main(){
   g.addEdge("New York", "London");
   g.addEdge("Delhi", "Paris");
   g.addEdge("Paris", "New York");
-
   g.printAdjList();
 }
