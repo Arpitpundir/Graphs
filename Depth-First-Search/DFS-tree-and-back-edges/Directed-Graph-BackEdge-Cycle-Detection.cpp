@@ -48,5 +48,4 @@ int main(){
   cout<<"Cycle"<<endl;
   else
   cout<<"No cycle"<<endl;
-
 }
